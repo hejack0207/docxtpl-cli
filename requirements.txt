@@ -1,0 +1,9 @@
+click==6.2
+six==1.10.0
+lxml==3.5.0
+Jinja2==2.9.6
+python_docx==0.8.6
+pytoml==0.1.11
+docx==0.2.4
+xmltodict==0.11.0
+PyYAML==3.12
